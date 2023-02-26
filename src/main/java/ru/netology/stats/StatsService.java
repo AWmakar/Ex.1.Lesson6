@@ -1,4 +1,4 @@
-package ru.netology.javaqa.javaqamvn.services;
+package ru.netology.stats;
 public class StatsService {
 
     // Номер месяца, в котором был минимум продаж;

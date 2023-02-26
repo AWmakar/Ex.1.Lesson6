@@ -1,4 +1,4 @@
-package ru.netology.javaqa.javaqamvn.services;
+package ru.netology.stats;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
